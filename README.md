@@ -6,7 +6,7 @@ A smart Chrome extension that automatically fills form fields with saved user da
 ## 🔹 Screenshots
 
 ### 📌 Extension Popup UI:
-[Add your screenshot here]
+Screenshot.png
 
 
 ## 🔹 Features
